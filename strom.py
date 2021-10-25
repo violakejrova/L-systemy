@@ -59,7 +59,6 @@ for pismenko in r:
         pozice.append(a)
         b = turtle.heading()
         uhel.append(b)
-        print(a,b)
         
     elif pismenko == ']':
         turtle.penup()
