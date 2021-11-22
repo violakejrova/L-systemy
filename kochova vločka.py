@@ -1,7 +1,7 @@
 import turtle
 
 
-rada = ['F++F++F']
+rada = ['F--F--F']
 
 pravidla = {'F': 'F+F--F+F'}
 
